@@ -1,7 +1,5 @@
 # Philosophers
 
-## About
-
 In this project, I learned the basics of threading a process. I learned how to make threads. I discovered the mutex.
 Click here for a full [subject][1]
 
