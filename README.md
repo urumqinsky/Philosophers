@@ -1,7 +1,7 @@
 # Philosophers
 In this project, I learned the basics of threading a process. I learned how to make threads. I discovered the mutex.
 
-# Philo test
+## Philo test
 - Do not test with more than 200 philosophers
 - Do not test with time_to_die or time_to_eat or time_to_sleep under 60 ms
 - Test with 1 800 200 200, the philosopher should not eat and should die!
