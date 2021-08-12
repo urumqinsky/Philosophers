@@ -7,7 +7,7 @@ In this project, I learned the basics of threading a process. I learned how to m
 
         git clone https://github.com/urumqinsky/Philosophers.git
 
-2. `cd` into the directory and run make
+2. `cd` into the directory and run `make`
 
         cd Philosophers/philo && make
 
