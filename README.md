@@ -8,8 +8,11 @@ In this project, I learned the basics of threading a process. I learned how to m
         git clone https://github.com/urumqinsky/Philosophers.git
 
 2. `cd` into the directory and run make
+
         cd Philosophers/philo && make
+
 3. run `./philo arg1 arg2 arg3 arg4 [arg5]`
+
         - number_of_philosophers: is the number of philosophers and also the number of forks.
         - time_to_die: is in milliseconds, if a philosopher doesn’t start eating ’time_to_die’ milliseconds after starting his last meal or the beginning of the simulation, it dies.
         - time_to_eat: is in milliseconds and is the time it takes for a philosopher to eat. During that time he will need to keep the two forks.
