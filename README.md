@@ -30,4 +30,4 @@ Click here for a full [subject][1]
 - Test with your values to check all the rules. Check if a philosopher dies at the right time if they don't steal forks, etc.
 
 
-[1]: https://github.com/urumqinsky/Philosophers/blob/main/en.subject.pdf
+[1]: https://cdn.intra.42.fr/pdf/pdf/26231/en.subject.pdf
