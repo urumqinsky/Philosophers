@@ -1,5 +1,6 @@
 # Philosophers
 In this project, I learned the basics of threading a process. I learned how to make threads. I discovered the mutex.
+Click here for a full [subject][1]
 
 ### Installing and running the program
 
@@ -27,3 +28,6 @@ In this project, I learned the basics of threading a process. I learned how to m
 - Test with 4 410 200 200, no one should die!
 - Test with 4 310 200 100, a philosopher should die!- Test with 2 philosophers and check the different times (a death delayed by more than 10 ms is unacceptable).
 - Test with your values to check all the rules. Check if a philosopher dies at the right time if they don't steal forks, etc.
+
+
+[1]: https://github.com/urumqinsky/Philosophers/blob/main/en.subject.pdf
